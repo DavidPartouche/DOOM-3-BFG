@@ -45,6 +45,7 @@ If you have questions concerning this license or the applicable additional terms
 #ifndef GAME_DLL
 
 #define WINVER				0x501
+#define _WIN32_WINNT		0x501
 
 #include <winsock2.h>
 #include <mmsystem.h>
